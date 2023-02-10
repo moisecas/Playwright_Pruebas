@@ -21,4 +21,4 @@ test('loginCar', async ({ page }) => {
   await page.locator('[data-test="continue"]').click();
   await page.locator('[data-test="finish"]').click();
   await page.locator('[data-test="back-to-products"]').click();
-});
+}); 
