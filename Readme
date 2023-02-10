@@ -1,0 +1,11 @@
+Saludos
+
+En la carpeta playwright esta un demo de prueba con java, se recomienda abrir en intellij ide. Al decargar y abrir la carpeta
+se ingresa a la clase Test y con click derecho sobre la clase Test se corre en el botón DebugTestOne 
+
+Ahora para correr los casos de prueba en javascript puede hacer uso de los siguientes comandos
+npm run test   
+npx playwright test prueba.spec.js  
+Para el reporte en la consola aparece el comando a usar luego de ejecutada la prueba. 
+
+Gracias 
