@@ -30,11 +30,11 @@
       <artifactId>playwright</artifactId>
       <version>1.30.0</version>
     </dependency>
-    <dependency>
+    <dependency> 
       <groupId>com.github.playwright</groupId>
       <artifactId>playwright-java</artifactId>
       <version>0.32.0</version>
-    </dependency>
+    </dependency> 
 
 
   </dependencies>
